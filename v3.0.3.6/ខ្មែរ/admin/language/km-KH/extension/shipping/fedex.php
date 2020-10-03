@@ -1,0 +1,119 @@
+<?php
+// Heading
+$_['heading_title']                            = 'FedEx';
+
+// Text
+$_['text_extension']                           = 'ផ្នែកបន្ថែម';
+$_['text_shipping']                            = 'ការដឹកជញ្ជូន';
+$_['text_success']                             = 'ជោគជ័យ: អ្នកបានកែប្រែ ការដឹកជញ្ជូន FedEx ហើយ !';
+$_['text_edit']                                = 'កែការដឹកជញ្ជូន FedEx';
+$_['text_europe_first_international_priority'] = 'អាទិភាពអន្តរជាតិទីមួយរបស់អឺរ៉ុប';
+$_['text_fedex_1_day_freight']                 = 'ដឹកទំនិញ ១ ថ្ងៃ FedEx';
+$_['text_fedex_2_day']                         = '២ ថ្ងៃ FedEx';
+$_['text_fedex_2_day_am']                      = '២ ថ្ងៃ​ ព្រឹក FedEx';
+$_['text_fedex_2_day_freight']                 = 'ដឹកទំនិញ ២ ថ្ងៃ FedEx';
+$_['text_fedex_3_day_freight']                 = 'ដឹកទំនិញ ៣ ថ្ងៃ FedEx';
+$_['text_fedex_express_saver']                 = 'សំចៃរហ័ស FedEx';
+$_['text_fedex_first_freight']                 = 'ដឹកទំនិញដំបូង Fedex';
+$_['text_fedex_freight_economy']               = 'ដឹកទំនិញថ្នាក់ទាប FedEx';
+$_['text_fedex_freight_priority']              = 'អាទិភាពដឹកទំនិញ FedEx';
+$_['text_fedex_ground']                        = 'តាមរយៈដី FedEx';
+$_['text_first_overnight']                     = 'មួយយប់ដំបូង';
+$_['text_ground_home_delivery']                = 'ការដឹកជញ្ជូនតាមផ្ទះ';
+$_['text_international_economy']               = 'ថ្នាក់ទាបអន្តរជាតិ';
+$_['text_international_economy_freight']       = 'ដឹកទំនិញថ្នាក់ទាបអន្តរជាតិ';
+$_['text_international_first']                 = 'អន្ដរជាតិដំបូង';
+$_['text_international_priority']              = 'អាទិភាពអន្តរជាតិ';
+$_['text_international_priority_freight']      = 'ដឹកទំនិញអទិភាពអន្តរជាតិ';
+$_['text_priority_overnight']                  = 'អាទិភាពមួយយប់';
+$_['text_smart_post']                          = 'Smart Post';
+$_['text_standard_overnight']                  = 'ធម្មតាមួយយប់';
+$_['text_regular_pickup']                      = 'ទៅទទួលធម្មតា';
+$_['text_request_courier']                     = 'សំណើអ្នកនាំសំបុត្រ';
+$_['text_drop_box']                            = 'ប្រអប់ទម្លាក់ចុះ';
+$_['text_business_service_center']             = 'មជ្ឈមណ្ឌលសេវាកម្មអាជីវកម្ម';
+$_['text_station']                             = 'ស្ថានីយ៍';
+$_['text_fedex_envelope']                      = 'ស្រោមសំបុត្រ​ FedEx';
+$_['text_fedex_pak']                           = 'វេចខ្ចប់ FedEx';
+$_['text_fedex_box']                           = 'ប្រអប់ FedEx';
+$_['text_fedex_tube']                          = 'បំពង់ FedEx';
+$_['text_fedex_10kg_box']                      = 'ប្រអប់ ១០ kg FedEx';
+$_['text_fedex_25kg_box']                      = 'ប្រអប់ ២៥ kg FedEx';
+$_['text_your_packaging']                      = 'ការវេចខ្ចប់របស់អ្នក';
+$_['text_list_rate']                           = 'អត្រាបញ្ជី';
+$_['text_account_rate']                        = 'អត្រាគណនី';
+
+$_['text_europe_first_international_priority'] = 'អាទិភាពអន្តរជាតិទីមួយរបស់អឺរ៉ុប';
+$_['text_fedex_1_day_freight']                 = 'FedEx ១ថ្ងៃ ដឹកទំនិញ';
+$_['text_fedex_2_day']                         = 'FedEx ២ថ្ងៃ';
+$_['text_fedex_2_day_am']                      = 'FedEx ២ថ្ងៃ ពេលព្រឹក';
+$_['text_fedex_2_day_freight']                 = 'FedEx ២ថ្ងៃ ដឹកទំនិញ';
+$_['text_fedex_3_day_freight']                 = 'FedEx ៣ថ្ងៃ ដឹកទំនិញ';
+$_['text_fedex_express_saver']                 = 'FedEx រហ័ស សំចៃ';
+$_['text_fedex_first_freight']                 = 'FedEx ដំបូង ដឹកទំនិញ';
+$_['text_fedex_freight_economy']               = 'FedEx ដឹកទំនិញ ថ្នាក់ទាប';
+$_['text_fedex_freight_priority']              = 'FedEx ដឹកទំនិញ អាទិភាព';
+$_['text_fedex_ground']                        = 'FedEx តាមរយៈដី';
+$_['text_first_overnight']                     = 'ដំបូង មួយយប់';
+$_['text_ground_home_delivery']                = 'ការចែកចាយតាមផ្ទះ';
+$_['text_international_economy']               = 'អន្តរជាតិ ថ្នាក់ទាប';
+$_['text_international_economy_freight']       = 'អន្តរជាតិ ថ្នាក់ទាប ដឹកទំនិញ';
+$_['text_international_first']                 = 'អន្តរជាតិ ដំបូង';
+$_['text_international_priority']              = 'អន្តរជាតិ អាទិភាព';
+$_['text_international_priority_freight']      = 'អន្តរជាតិ អាទិភាព ដឹកទំនិញ';
+$_['text_priority_overnight']                  = 'អាទិភាព មួយយប់';
+$_['text_smart_post']                          = 'Smart Post';
+$_['text_standard_overnight']                  = 'ស្តង់ដារមួយយប់';
+$_['text_regular_pickup']                      = 'ទៅទទួលធម្មតា';
+$_['text_request_courier']                     = 'សំណើអ្នកនាំសំបុត្រ';
+$_['text_drop_box']                            = 'ទម្លាក់ប្រអប់';
+$_['text_business_service_center']             = 'មជ្ឈមណ្ឌលសេវាកម្មអាជីវកម្ម';
+$_['text_station']                             = 'ស្ថានីយ៍';
+$_['text_fedex_envelope']                      = 'FedEx ស្រោមសំបុត្រ';
+$_['text_fedex_pak']                           = 'FedEx វេចខ្ចប់';
+$_['text_fedex_box']                           = 'FedEx ប្រអប់';
+$_['text_fedex_tube']                          = 'FedEx បំពង់';
+$_['text_fedex_10kg_box']                      = 'FedEx ១០ kg ប្រអប់';
+$_['text_fedex_25kg_box']                      = 'FedEx ២៥ kg ប្រអប់';
+$_['text_your_packaging']                      = 'ការវេចខ្ចប់របស់អ្នក';
+$_['text_list_rate']                           = 'អត្រាបញ្ជី';
+$_['text_account_rate']                        = 'អត្រាគណនី';
+
+// Entry
+$_['entry_key']                                = 'កូនសោ';
+$_['entry_password']                           = 'ពាក្យសម្ងាត់';
+$_['entry_account']                            = 'លេខគណនី';
+$_['entry_meter']                              = 'លេខម៉ែត្រ';
+$_['entry_postcode']                           = 'កូដប្រៃសណីយ៍';
+$_['entry_test']                               = 'របៀបសាកល្បង';
+$_['entry_service']                            = 'សេវាកម្ម';
+$_['entry_dimension']                          = 'វិមាត្រប្រអប់ (L x W x H)';
+$_['entry_length_class']                       = 'ចំណាត់ថ្នាក់ប្រវែង';
+$_['entry_length']                             = 'ប្រវែង';
+$_['entry_width']                              = 'ទទឹង';
+$_['entry_height']                             = 'កម្ពស់';
+$_['entry_dropoff_type']                       = 'ប្រភេទទម្លាក់ចុះ';
+$_['entry_packaging_type']                     = 'ប្រភេទវេចខ្ចប់';
+$_['entry_rate_type']                          = 'ប្រភេទអត្រា';
+$_['entry_display_time']                       = 'បង្ហាញពេលវេលាចែកចាយ';
+$_['entry_display_weight']                     = 'បង្ហាញទំងន់ចែកចាយ';
+$_['entry_weight_class']                       = 'ចំណាត់ថ្នាក់ទម្ងន់';
+$_['entry_tax_class']                          = 'ចំណាត់ថ្នាក់ពន្ធ';
+$_['entry_geo_zone']                           = 'តំបន់ភូមិសាស្ត្រ​';
+$_['entry_status']                             = 'ស្ថានភាព';
+$_['entry_sort_order']                         = 'តម្រៀបតាមលំដាប់';
+
+// Help
+$_['help_length_class']                        = 'កំណត់ទៅអ៊ីញ ឬ សង់ទីម៉ែត្រ ។';
+$_['help_display_time']                        = 'តើអ្នកចង់បង្ហាញពេលវេលាដឹកជញ្ជូនទេ? (e.g. ដឹកជញ្ជូនក្នុងរយៈពេល ៣ ទៅ ៥ ថ្ងៃ)';
+$_['help_display_weight']                      = 'តើអ្នកចង់បង្ហាញទម្ងន់ដឹកជញ្ជូនទេ? (e.g. ទំងន់ចែកចាយ: ២.៧៦៧៤ kg)';
+$_['help_weight_class']                        = 'កំណត់ទៅជាគីឡូក្រាមឬផោន។';
+
+// Error
+$_['error_permission']                         = 'ការព្រមាន: អ្នកមិនមានសិទ្ធិអនុញ្ញាតដើម្បីកែប្រែ ការដឹកជញ្ជូន FedEx ទេ !';
+$_['error_key']                                = 'ត្រូវការ កូនសោ !';
+$_['error_password']                           = 'ត្រូវការ ពាក្យសម្ងាត់ !';
+$_['error_account']                            = 'ត្រូវការ គណនី !';
+$_['error_meter']                              = 'ត្រូវការ ម៉ែត្រ !';
+$_['error_postcode']                           = 'ត្រូវការ កូដប្រៃសណីយ៍ !';
+$_['error_dimension']                          = 'ត្រូវការ ទទឹង &amp; កម្ពស់ !';
