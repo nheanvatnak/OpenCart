@@ -165,6 +165,7 @@ $_['error_curl']                    = 'CURL: Error Code(%s): %s';
 //$_['summernote']                    = 'cs-CZ';
 //$_['summernote']                    = 'da-DK';
 //$_['summernote']                    = 'de-DE';
+//$_['summernote']                    = 'dv-MV';
 //$_['summernote']                    = 'es-ES';
 //$_['summernote']                    = 'es-EU';
 //$_['summernote']                    = 'fa-IR';
@@ -200,7 +201,7 @@ $_['error_curl']                    = 'CURL: Error Code(%s): %s';
 //$_['summernote']                    = 'zh-TW';
 
 // Datepicker
-$_['datepicker']                    = 'en-gb';
+//$_['datepicker']                    = 'en-gb';
 //$_['datepicker']                    = 'af';
 //$_['datepicker']                    = 'ar-dz';
 //$_['datepicker']                    = 'ar-kw';
@@ -224,7 +225,7 @@ $_['datepicker']                    = 'en-gb';
 //$_['datepicker']                    = 'de-at';
 //$_['datepicker']                    = 'de-ch';
 //$_['datepicker']                    = 'de';
-//$_['datepicker']                    = 'dv';
+$_['datepicker']                    = 'dv';
 //$_['datepicker']                    = 'el';
 //$_['datepicker']                    = 'en-au';
 //$_['datepicker']                    = 'en-ca';
