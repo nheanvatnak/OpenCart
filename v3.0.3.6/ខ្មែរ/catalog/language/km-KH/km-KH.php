@@ -18,7 +18,7 @@ $_['text_select']           = ' --- សូមជ្រើសរើស --- ';
 $_['text_all_zones']        = 'តំបន់ទាំងអស់';
 $_['text_pagination']       = 'បង្ហាញពី %d ដល់ %d នៃ %d (%d ទំព័រ)';
 $_['text_loading']          = 'ដំណើរការ...';
-$_['text_no_results']       = 'គ្មានលទ្ធផល !';
+$_['text_no_results']       = 'គ្មានលទ្ធផល!';
 
 // Buttons
 $_['button_address_add']    = 'បន្ថែមអាសយដ្ឋាន';
